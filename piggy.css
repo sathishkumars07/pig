@@ -2,7 +2,7 @@
     margin: 0 auto;
     }
     body{
-    background:url(ASSET/asset/spot.jpg);
+    background:url(spot.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     font-family: Segoe UI;
